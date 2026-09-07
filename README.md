@@ -6,24 +6,17 @@ Product: https://dictaste.com
 
 ## Download
 
-Use the official download page for the current Mac and Windows builds:
+- **macOS Apple Silicon (live, notarized 0.1.5):** [Dictaste-0.1.5-arm64.dmg](https://github.com/ascendmaui/dictaste/releases/download/v0.1.5/Dictaste-0.1.5-arm64.dmg)
+- macOS Intel and Windows 0.1.92 zips are being restored after the original `johnmatveyev-lab` GitHub account was suspended.
 
-https://dictaste.com/download
+Landing page: https://ascendmaui.github.io/dictaste/
 
-Latest Mac release (Apple Silicon):
-
-https://github.com/ascendmaui/dictaste/releases/latest
-
-## Support
-
-Report bugs and feature requests here:
-
-https://github.com/ascendmaui/dictaste/issues
+SHA-256 (Apple Silicon): `5a09a194a68c14deffb7a1416bc9dce1146ca318781953fac0875c61cf3db3ae`
 
 ## Developers
 
-Developer information and the free BYO-key path:
+Star this repo, download the app, and add your own LLM API key — free forever. Your key stays on your machine.
 
-https://dictaste.com/developers
+## Support
 
-This repository is the current public GitHub home for Dictaste under the `ascendmaui` account.
+https://github.com/ascendmaui/dictaste/issues
